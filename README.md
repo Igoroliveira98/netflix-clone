@@ -2,7 +2,7 @@
 
 # NETFLIX CLONE
 
-Olá pessoas. Esse foi um projeto bem legal de fazer. Desenolvido durante o mine curso do Bonieky Lacerda, esse é um clone do famoso site de streamings _Netflix_ usando React JS.
+Olá pessoas. Esse foi um projeto bem legal de fazer. É um clone do famoso site de streamings _Netflix_ usando React JS.
  
 **Download do Projeto:** 
 ```
